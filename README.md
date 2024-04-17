@@ -14,6 +14,6 @@ Lab_LineTraceStore
 Lab_Stamina  
 
 Chapter 3
-Lab_AI_Random_Wander
-Lab_AI_Wander_Extension
-Lab_PoolAndForce
+Lab_AI_Random_Wander  
+Lab_AI_Wander_Extension  
+Lab_PoolAndForce  
